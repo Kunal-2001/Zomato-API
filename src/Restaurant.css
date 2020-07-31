@@ -1,0 +1,17 @@
+.restaurant {
+	box-shadow: 5px 8px 10px #888888;
+	transition: 0.5s all ease-in-out;
+}
+
+.restaurant:hover {
+	transform: scale(1.1, 1.1);
+}
+
+.rating {
+	margin-left: 10px;
+	font-size: 15px;
+	border-radius: 3px;
+	padding-left: 3px;
+	color: white;
+	background-color: #3f7e00;
+}
